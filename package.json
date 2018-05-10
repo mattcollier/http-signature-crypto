@@ -1,0 +1,25 @@
+{
+  "name": "http-signature-crypto",
+  "version": "0.0.1-0",
+  "description": "",
+  "main": "lib",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcollier/http-signature-crypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattcollier/http-signature-crypto/issues"
+  },
+  "homepage": "https://github.com/mattcollier/http-signature-crypto#readme",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "chloride": "^2.2.9"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
